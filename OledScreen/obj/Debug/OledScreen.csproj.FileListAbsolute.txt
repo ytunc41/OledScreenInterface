@@ -1,0 +1,12 @@
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\bin\Debug\OledScreen.exe.config
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\bin\Debug\OledScreen.exe
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\bin\Debug\OledScreen.pdb
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.csprojAssemblyReference.cache
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.Properties.Resources.resources
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.csproj.GenerateResource.cache
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.csproj.CopyComplete
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.exe
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.pdb
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.MainForm.resources
+C:\Users\yusuf\Documents\C# Project\OledScreen\OledScreen\obj\Debug\OledScreen.SerialPortForm.resources
